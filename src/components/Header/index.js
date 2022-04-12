@@ -1,5 +1,5 @@
 import React from 'react';
-import './components/Header/index.css';
+import './index.css';
 
 export default ({black}) => {
     return(
